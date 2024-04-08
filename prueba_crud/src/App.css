@@ -1,0 +1,10 @@
+.modal-close-btn {
+    background: none;
+    border: none;
+    color: #000; 
+    font-size: 25px; 
+}
+  
+.modal-close-btn:hover {
+    color: rgb(116, 11, 11); 
+}
